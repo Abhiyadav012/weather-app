@@ -4,6 +4,11 @@ A simple and responsive Weather App that allows users to search for any city and
 
 ---
 
+## 🚀 Live Demo
+🔗https://abhiyadav012.github.io/weather-app/
+
+---
+
 ## 🚀 Features
 
 - 🔍 Search weather by city name
